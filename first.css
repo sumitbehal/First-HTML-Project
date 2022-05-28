@@ -1,0 +1,40 @@
+#header {
+    text-align: center;
+    background-color:black ;
+    color : red;
+}
+
+body {
+    background-color :black ;
+    text-align: center;
+  }
+
+#header {
+    font-family: "Times New Roman";
+ } 
+#home {
+    background-color: tomato;
+}
+
+#about {
+    background-color: tomato ;
+}
+
+#submit {
+    
+     color : red;
+     width: 20em;  height: 2em;
+}
+#email {
+    width: 20em;  height: 1.6em;
+}
+#contact {
+    color : black;
+}
+
+.nav-link {
+    color : lime ;
+    font-style: bold;
+    font-family: monospace;
+    font-size: 20px;
+}
